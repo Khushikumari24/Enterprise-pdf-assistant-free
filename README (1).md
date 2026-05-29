@@ -34,7 +34,7 @@
 Click the badge above ☝️ or this link:
 
 ```
-https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Enterprise_PDF_Assistant_FREE.ipynb
+https://colab.research.google.com/github/khushikumari24/Enterprise-pdf-assistant/blob/main/Enterprise_PDF_Assistant_FREE.ipynb
 ```
 
 ### Option 2 — Run locally
